@@ -1,3 +1,29 @@
+## DO NOT USE ! This is an unsupported fork of https://github.com/bitanath/pca 
+
+- Original version has an issue with generating lots of logs, which makes it expensive to run in some cloud environments. https://github.com/bitanath/pca/issues/14
+- This fork is fixing just that, and will be removed once original is fixed.
+
+## DO NOT USE ! This is an unsupported fork of https://github.com/bitanath/pca 
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+
 # Principal Components Analysis in Javascript!
 
 A JS library to compute Principal Components from a given matrix of data. Use in either node.js or the browser. Look below for the API and some ideas 💡.
